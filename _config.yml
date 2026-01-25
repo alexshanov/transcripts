@@ -1,4 +1,4 @@
-remote_theme: pages-themes/minimal
+baseurl: "/transcripts"
 title: Архив транскриптов
 description: Сборник материалов и транскриптов на различные темы.
-# Sidebar is hidden via assets/css/style.scss for a clean, centered layout.
+# Theme disabled for full custom layout control
