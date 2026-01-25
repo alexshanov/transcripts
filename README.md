@@ -12,9 +12,14 @@
 *   **Тема:** Разбор аграрной реформы Петра Столыпина, критика современных либеральных мифов и анализ реальных механизмов переселения в Сибирь.
 *   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/stolypin_myths.html)
 
+### [Этика помойки: Фрагмент](dumpster_ethics.md)
+*   **Тема:** Социальная динамика и «стадный инстинкт» при распределении просроченных продуктов.
+*   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/dumpster_ethics.html)
+
 ### [Письма из деревни Энгельгардта](engelhardt.md)
 *   **Тема:** Уникальный опыт Александра Энгельгардта по взаимодействию с крестьянской общиной и внедрению научных методов в традиционный уклад.
 *   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/engelhardt.html)
+
 
 ---
 
