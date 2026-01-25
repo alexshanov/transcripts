@@ -21,9 +21,14 @@ layout: default
 *   **Тема:** Социальная динамика и «стадный инстинкт» при распределении просроченных продуктов.
 *   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/dumpster_ethics.html)
 
+### [«Дело врачей» и закат сталинизма](doctors_plot.md)
+*   **Тема:** Разбор одного из самых загадочных дел позднего сталинизма, политические интриги и внешнеполитический контекст.
+*   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/doctors_plot.html)
+
 ### [Письма из деревни Энгельгардта](engelhardt.md)
 *   **Тема:** Уникальный опыт Александра Энгельгардта по взаимодействию с крестьянской общиной и внедрению научных методов в традиционный уклад.
 *   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/engelhardt.html)
+
 
 
 ---
