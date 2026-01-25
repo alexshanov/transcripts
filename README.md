@@ -25,7 +25,12 @@ layout: default
 *   **Тема:** Разбор одного из самых загадочных дел позднего сталинизма, политические интриги и внешнеполитический контекст.
 *   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/doctors_plot.html)
 
+### [«Ленинградское дело» и борьба за власть](leningrad_affair.md)
+*   **Тема:** История самого кровавого внутрипартийного конфликта послевоенной эпохи, судьба Кузнецова и роль Маленкова.
+*   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/leningrad_affair.html)
+
 ### [Письма из деревни Энгельгардта](engelhardt.md)
+
 *   **Тема:** Уникальный опыт Александра Энгельгардта по взаимодействию с крестьянской общиной и внедрению научных методов в традиционный уклад.
 *   **Читать онлайн:** [Rendered Version](https://alexshanov.github.io/transcripts/engelhardt.html)
 
