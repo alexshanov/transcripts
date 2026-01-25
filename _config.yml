@@ -1,4 +1,5 @@
-baseurl: "/transcripts"
 title: Архив транскриптов
 description: Сборник материалов и транскриптов на различные темы.
-# Theme disabled for full custom layout control
+# Minimal config to avoid deployment issues
+markdown: kramdown
+highlighter: rouge
