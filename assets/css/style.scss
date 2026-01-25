@@ -1,6 +1,4 @@
----
----
-@import "{{ site.theme }}";
+--- --- @import "jekyll-theme-minimal";
 
 /* Hide the left sidebar/header block */
 header {
@@ -29,6 +27,8 @@ body {
   color: #333;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
   color: #111;
 }
