@@ -1,3 +1,2 @@
 theme: jekyll-theme-minimal
-title: Аграрная политика Хрущёва
-description: Анализ причин провала сельскохозяйственных реформ Никиты Хрущёва.
+# Removed global title and description to keep the layout clean as requested.
