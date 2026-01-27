@@ -33,3 +33,7 @@ layout: default
 ### [Мифы о Петре I](peter_the_great.md)
 *   **Тема:** Разбор реформ и наследия Петра I.
 *   [Читать онлайн](peter_the_great.html)
+
+### [Метафизика страдания по-русски](metaphysics_suffering.md)
+*   **Тема:** Анализ философских и культурных аспектов страдания.
+*   [Читать онлайн](metaphysics_suffering.html)
