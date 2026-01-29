@@ -74,6 +74,6 @@ layout: default
 *   **Тема:** Карманные деньги: путь к инфантилизму или свобода быть собой?
 *   [Читать онлайн](pocket_money_infantilism_freedom.html)
 
-### [Вопросы, касающиеся России](russia_questions.md)
-*   **Тема:** Вопросы, касающиеся России
-*   [Читать онлайн](russia_questions.html)
+### [Проблемы развития России](russia_development.md)
+*   **Тема:** Проблемы развития России
+*   [Читать онлайн](russia_development.html)
