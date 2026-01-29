@@ -69,3 +69,7 @@ layout: default
 ### [Гипноз власти](hypnosis_of_power.md)
 *   **Тема:** Гипноз власти
 *   [Читать онлайн](hypnosis_of_power.html)
+
+### [Карманные деньги: путь к инфантилизму или свобода быть собой?](pocket_money_infantilism_freedom.md)
+*   **Тема:** Карманные деньги: путь к инфантилизму или свобода быть собой?
+*   [Читать онлайн](pocket_money_infantilism_freedom.html)
