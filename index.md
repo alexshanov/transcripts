@@ -77,3 +77,7 @@ layout: default
 ### [Проблемы развития России](russia_development.md)
 *   **Тема:** Проблемы развития России
 *   [Читать онлайн](russia_development.html)
+
+### [Вопросы, касающиеся России](russia_questions.md)
+*   **Тема:** Вопросы, касающиеся России (Евгений Трофимов)
+*   [Читать онлайн](russia_questions.html)
