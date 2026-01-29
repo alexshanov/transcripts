@@ -1,5 +1,5 @@
-title: Архив транскриптов
-description: Сборник материалов и транскриптов на различные темы.
+title: Архив стенограмм
+description: Сборник материалов и стенограмм на различные темы.
 # Minimal config to avoid deployment issues
 markdown: kramdown
 highlighter: rouge
